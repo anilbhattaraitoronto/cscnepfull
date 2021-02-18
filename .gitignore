@@ -1,0 +1,10 @@
+/client/node_modules/
+/node_modules/
+/client/public/build/
+/scripts
+
+.DS_Store
+deploy.sh
+deploy.sh
+
+secrets.js
